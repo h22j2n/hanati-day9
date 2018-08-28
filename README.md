@@ -90,7 +90,7 @@
 - 자료구조의 중요성 때문에 대부분의 프로그래밍 언어에서는 자주 사용하는 자료구조를 표현한 기본 라이브러리를 제공하며, Java 언어 또한 자료구조를 표현한 API를 제공하는데 이를 **Collection API** 또는 **Collection Framework**라 부른다.
   - **Collection API(Framework)**  
     - 일관된(표준화) 사용을 위해 자바 인터페이스를 이용하여 다양한 자료구조에 대한 기본 규약을 명세하고 있으며, 또한 기본 규약을 준수하는 많은 자료구조 클래스들을 제공
-    - ![그림1](C:\Users\kosta\Desktop\까마귀\img\그림1.png)
+    - ![그림1](https://github.com/h22j2n/hanati-day9/blob/master/img/%EA%B7%B8%EB%A6%BC1.png)
     - 더 있지만 일단 이정도만 필수로 알아두기!
     - list는 순서가 있어서 같은 것 집어넣을 수 있음
     - Queue 는 양쪽이 다 뚫려 있음 Stack이랑 반대 개념
